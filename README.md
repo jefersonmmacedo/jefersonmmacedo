@@ -1,11 +1,11 @@
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://avatars2.githubusercontent.com/u/61505613?s=460&u=adde43943143ef0d04ffb49b1027a1588c85d8dc&v=4">
 
 
-# Thiago Marinho
+# Jeferson Macedo
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Sou um FullStack Developer :computer:
+Sou apaixonado por tecnologia, com foco em facilitar a vida das pessoas para que possamos passar menos tempo resolvendo problemas e sim aproveitando os bons momentos da vida.
+Sou estudante de programação focado em me tornar um FullStack Developer :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
