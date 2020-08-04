@@ -1,4 +1,4 @@
-<img width="auto" src="https://avatars2.githubusercontent.com/u/61505613?s=460&u=adde43943143ef0d04ffb49b1027a1588c85d8dc&v=4">
+<img width="auto" src="https://media-exp1.licdn.com/dms/image/C4E16AQF5qC39999ObQ/profile-displaybackgroundimage-shrink_200_800/0?e=1602115200&v=beta&t=J53K-vkRHTCEZdVBASKeUPz1a4UzAEQi6FUCY3_wBIg">
 
 
 # Jeferson Macedo
