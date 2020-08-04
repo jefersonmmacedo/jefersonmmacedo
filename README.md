@@ -4,15 +4,15 @@
 # Jeferson Macedo
 
 ## Olá pessoal 👋
-Sou apaixonado por tecnologia, com foco em facilitar a vida das pessoas para que possamos passar menos tempo resolvendo problemas e sim aproveitando os bons momentos da vida.
-Sou estudante de programação focado em me tornar um FullStack Developer :computer:
+Sou apaixonado por tecnologia, comobjetivo em facilitar a vida das pessoas para que todos possam passar menos tempo resolvendo problemas e sim aproveitando os bons momentos da vida.
+Estudante de programação focado em me tornar um FullStack Developer :computer:
 
- :rocket:  &nbsp; Estou trabalhando na **Rocketseat**
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
+ :rocket:  &nbsp; Estou trabalhando na **Leste Telecom**
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end e Back-end usando React e Node js
  <br/> :blush: &nbsp; Posso te ajudar com CSS Grid Layout e Flexbox
- <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
- <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games CS:GO, LoL e seriados no Netflix
- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-ThiagoMarinho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/tgmarinho/) 
+ <br/> :computer: &nbsp; Minha stack: ReactJS, Node.js, React Native
+ <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, praticar esporte ( Futebol ) games ( Battlefield ), Filmes e seriados de Super Heróis
+ <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JefersonMacedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-macedo-4a3908158/)](https://www.linkedin.com/in/jeferson-macedo-4a3908158/) 
 | 
 [![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
 
