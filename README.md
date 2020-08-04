@@ -3,8 +3,8 @@
 
 # Jeferson Macedo
 
-## Olá pessoal 👋
-Sou apaixonado por tecnologia, comobjetivo em facilitar a vida das pessoas para que todos possam passar menos tempo resolvendo problemas e sim aproveitando os bons momentos da vida.
+## Olá sejam bem-vindos 👋
+Sou casado, tenho 28 anos, apaixonado por tecnologia, comobjetivo em facilitar a vida das pessoas para que todos possam passar menos tempo resolvendo problemas e sim aproveitando os bons momentos da vida.
 Estudante de programação focado em me tornar um FullStack Developer :computer:
 
  :rocket:  &nbsp; Estou trabalhando na **Leste Telecom**
@@ -14,7 +14,7 @@ Estudante de programação focado em me tornar um FullStack Developer :computer:
  <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, praticar esporte ( Futebol ) games ( Battlefield ), Filmes e seriados de Super Heróis
  <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JefersonMacedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-macedo-4a3908158/)](https://www.linkedin.com/in/jeferson-macedo-4a3908158/) 
 | 
-[![Gmail Badge](https://img.shields.io/badge/-tgmarinho@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tgmarinho@gmail.com)](mailto:tgmarinho@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-jefersonmacedowgf@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jefersonmacedowgf@gmail.com)](mailto:jefersonmacedowgf@gmail.com)
 
 <!--
 **jefersonmmacedo/jefersonmmacedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
