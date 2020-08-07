@@ -10,7 +10,7 @@ let JefersonMacedo = [
 Marital status: 'Casado',
 University: 'Estácio de Sá',
 Course: 'Sistemas de Informação'
-Objective: 'Fullstack Developer',
+Objectives: 'Fullstack Developer',
 Interests: 'Nodejs, React Js, React Native'
 }
 ] ;
