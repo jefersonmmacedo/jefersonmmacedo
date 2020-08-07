@@ -1,4 +1,4 @@
-<img width="auto" src="https://media-exp1.licdn.com/dms/image/C4E16AQF5qC39999ObQ/profile-displaybackgroundimage-shrink_200_800/0?e=1602115200&v=beta&t=J53K-vkRHTCEZdVBASKeUPz1a4UzAEQi6FUCY3_wBIg">
+<img width="auto" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fpt-br%2Ffoto%2Fabstrato-atividade-codificacao-codificador-270348%2F&psig=AOvVaw2mE5KqL3BX5uiN19p5zRme&ust=1596915421874000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCv3cvriesCFQAAAAAdAAAAABAI">
 
 
 # Jeferson Macedo
