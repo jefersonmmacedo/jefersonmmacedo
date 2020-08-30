@@ -4,7 +4,7 @@
 # Jeferson Macedo
 
 ```js
-import { information } from './MyLife'
+import { information } from './MyLife';
 let JefersonMacedo = [
 { Age: 28,
 Marital status: 'Casado',
@@ -12,8 +12,7 @@ University: 'Estácio de Sá',
 Course: 'Sistemas de Informação',
 Objective: 'Fullstack Developer',
 Interests: 'Nodejs, React Js, React Native'
-}
-] ;
+} ] ;
 ```
  <br/> [![Linkedin Badge](https://img.shields.io/badge/-JefersonMacedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jeferson-macedo-4a3908158/)](https://www.linkedin.com/in/jeferson-macedo-4a3908158/) 
 | 
