@@ -1,6 +1,3 @@
-<img width="auto" src="https://www.google.com/search?q=c%C3%B3digo+javascript&tbm=isch&ved=2ahUKEwjn6PuA_7LsAhU_BLkGHQZ-DGAQ2-cCegQIABAA&oq=c%C3%B3digo+javascript&gs_lcp=CgNpbWcQAzICCAAyBAgAEB4yBAgAEBgyBAgAEBgyBAgAEBgyBAgAEBg6BAgjECc6BwgAELEDEEM6BAgAEEM6BggAEAUQHjoGCAAQCBAeUJcUWNAgYK8iaABwAHgAgAHxAYgBuhGSAQUwLjUuNpgBAKABAaoBC2d3cy13aXotaW1nwAEB&sclient=img&ei=clyGX-fnEb-I5OUPhvyxgAY&bih=667&biw=1366#imgrc=2qvzMbCMpqU-sM">
-
-
 # Jeferson Macedo
 
 ```js
